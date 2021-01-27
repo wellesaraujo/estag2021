@@ -1,2 +1,5 @@
 Tste 2 para teste
 add linha 2
+
+--ADICIONANDO NOVAS LINHAS--
+Linhas 1 e 2 não foram alteradas para visualizar as modificações no github.
