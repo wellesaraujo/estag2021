@@ -1,2 +1,3 @@
-testando
-dicionando mais uma linha
+--ARQUIVO DE TESTE--
+Editado no VIM dia 27/01 para treinamento do terminal e git-
+Finalizando Edição.
